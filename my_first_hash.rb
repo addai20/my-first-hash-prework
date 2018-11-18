@@ -11,7 +11,7 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
   
-  return retrieval
+  
 
 
 end
@@ -35,7 +35,7 @@ def adding
                  }
   # add 2 muskets to the shipping_manifest hash below
 
-shipping_manifest["muskets"] += 2 
+#shipping_manifest["muskets"] += 2 
 
   # add 4 gun powder to the shipping_manifest hash below
 
